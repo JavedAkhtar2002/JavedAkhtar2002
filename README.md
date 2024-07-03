@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Javed Akhtar</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<img align="right" alt="coding" src="[[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0sr_lU5WEEsnT_Gb8xwRYW&ust=1720115529801000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDS_uu3i4cDFQAAAAAdAAAAABA9](https://user-images.githubusercontent.com/105595540/212469547-27e4c290-983d-4544-8266-60efd135ae41.gif)](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javedakhtar2002&label=Profile%20views&color=0e75b6&style=flat" alt="javedakhtar2002" /> </p>
 
