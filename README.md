@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Java Full Stack WEB Development**
 
-- 👨‍💻 All of my projects are available at [https://javed-akhtar-portfolio.netlify.app/](https://javed-akhtar-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Javed Akhtar](https://javed-akhtar-portfolio.netlify.app/)
 
 - 💬 Ask me about **Python, Reactjs, Nodejs, Databases etc.**
 
 - 📫 How to reach me **javedawesh11@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XYtHnc7QqPj_QDd-EuyatcXMZkF3ei-_/view?usp=sharing](https://drive.google.com/file/d/1XYtHnc7QqPj_QDd-EuyatcXMZkF3ei-_/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1XYtHnc7QqPj_QDd-EuyatcXMZkF3ei-_/view?usp=sharing)
 
 - ⚡ Fun fact **I love to play Cricket and a big fan of Virat Kohli.**
 
