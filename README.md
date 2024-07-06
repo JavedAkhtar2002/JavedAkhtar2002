@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java Full Stack WEB Development**
 
-- 👨‍💻 All of my projects are available at [Javed Akhtar](https://javed-akhtar-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Javed Akhtar](https://javedakhtar-portfolio.netlify.app/)
 
 - 💬 Ask me about **Python, Reactjs, Nodejs, Databases etc.**
 
