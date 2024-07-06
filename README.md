@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1XYtHnc7QqPj_QDd-EuyatcXMZkF3ei-_/view?usp=sharing)
 
-- ⚡ Fun fact **I love to play Cricket and a big fan of Virat Kohli.**
+- ⚡ Fun fact **I love to listen music while coding to make myself more focused.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
