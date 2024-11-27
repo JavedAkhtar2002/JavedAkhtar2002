@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javedakhtar2002&label=Profile%20views&color=0e75b6&style=flat" alt="javedakhtar2002" /> </p>
 
-- 🔭 I’m currently working on [RHYNO EV](https://github.com/JavedAkhtar2002/RhynoEV)
+- 🔭 I’m currently working on [Cehpoint](https://github.com/cehpoint-official)
 
 - 🌱 I’m currently learning **Java Full Stack WEB Development**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **javedawesh11@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1XYtHnc7QqPj_QDd-EuyatcXMZkF3ei-_/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1en5qmbZOX6Oub9yxv-YC5gAocEX7wMaA/view?usp=drive_link)
 
 - ⚡ Fun fact **I love to listen music while coding to make myself more focused.**
 
