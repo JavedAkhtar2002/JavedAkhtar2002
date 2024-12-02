@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javedakhtar2002&label=Profile%20views&color=0e75b6&style=flat" alt="javedakhtar2002" /> </p>
 
-- 🔭 I’m currently working on [Cehpoint](https://github.com/cehpoint-official)
+- 🔭 Currently working at [SDE-Intern Cehpoint](https://github.com/cehpoint-official)
 
 - 🌱 I’m currently learning **Java Full Stack WEB Development**
 
