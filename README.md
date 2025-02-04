@@ -9,13 +9,9 @@
 - 🔭 Currently working at [Backend Java Developer Sciflare Technologies Pvt. Ltd.]
 
 
-- 👨‍💻 All of my projects are available at [Javed Akhtar](https://javedakhtar-portfolio.netlify.app/)
-
 - 💬 Ask me about **Java, SpringBoot,Hibernate,MySQL,MongoDB,React etc**
 
 - 📫 How to reach me **javedakhtar002112@gmail.com**
-
-- 📄 Know about my experiences [My Resume](..)
 
 - ⚡ Fun fact **I love to listen music while coding to make myself more focused.**
 
