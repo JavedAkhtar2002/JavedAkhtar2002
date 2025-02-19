@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javedakhtar2002&label=Profile%20views&color=0e75b6&style=flat" alt="javedakhtar2002" /> </p>
 
-- 🔭 Currently working at [Backend Java Developer Sciflare Technologies Pvt. Ltd.]
+
 
 
 - 💬 Ask me about **Java, SpringBoot,Hibernate,MySQL,MongoDB,React etc**
